@@ -14,3 +14,6 @@ DBB: https://ameriflux.lbl.gov/sites/siteinfo/CA-DBB
 BZF: https://ameriflux.lbl.gov/sites/siteinfo/US-BZF
 
 LAI data from MODIS Google Earth Enginge: https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD15A3H
+
+
+The dataframes used in this study can be found in the folder 'Data'. R scripts found in the folder 'Scripts'.
